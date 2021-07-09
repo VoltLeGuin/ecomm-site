@@ -1,27 +1,27 @@
 [
   {
     "email": "test1@yo.com",
-    "password": "a624491160ca0c3f5b0155ec6a27d0525b7d2f78474bcf4fdf7ade8f86b709d6c9ea29c23f10ff707b9cfb33be0ba029337845f52e45ee2451df9e0b4509a9cf.c3ca1ee708404438",
+    "password": "XXX",
     "id": "5f6cb24b"
   },
   {
     "email": "test2@hey.com",
-    "password": "e0d8e2dfc9b908d889f26d07ecc420b254d4c1e5d85bb434aa123cc1ca5316a15b55e1c619aaadf775981d41404df711d530e8812d92d7c5db3f48010e04a5d7.d13fa3a479d40881",
+    "password": "XXX",
     "id": "9406bb4c"
   },
   {
     "email": "test3@yo.com",
-    "password": "7129f1c6a0561f1e9e2040b7d7674e9b03d0f73b6a4faf05463badf6780e20950175cf5595e6a66d3f731110f2676573bbfcae3cc4c0777bca8f534b599aaa39.095dda98f596e303",
+    "password": "XXX",
     "id": "ae0eeee1"
   },
   {
     "email": "test4@definitely.com",
-    "password": "1a98bcebd69049ea66009ff56105775ae8678a106cbdb8645749bcd9ae9279a55ac1b72712d727de9f67e928aff387890bd7894ffccdd9fa8498950debf349e1.f295c2f2e417a1dc",
+    "password": "XXX",
     "id": "10eb977c"
   },
   {
     "email": "test5@uhoh.com",
-    "password": "7ff8a152366afaad62a9055a810128b8a25bba900fca8299e1b13cefd6122835f25a838187e966efcd72679331db0bd9c9244578d090922ac85f4fe63b118eec.09f5ddecfa2f82f9",
+    "password": "XXX",
     "id": "4ea169cc"
   }
 ]
