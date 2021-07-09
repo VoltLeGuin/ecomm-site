@@ -13,7 +13,7 @@ app.use(express.static('public'));
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(cookieSession({
     //random jibberish used to encrypt:
-    keys: ['uyawryaweraiufsuifhsfh']
+    keys: ['XXX']
 }))
 //import router app from auth.js
 app.use(authRouter);
