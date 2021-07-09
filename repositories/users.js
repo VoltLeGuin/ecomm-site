@@ -9,7 +9,7 @@ const scrypt = util.promisify(crypto.scrypt);
 class UsersRepository extends Repository {
     //attrs is short for attributes
     async create(attrs) {
-        //attributes (attrs) is this object - { email: 'shit@shit.com', password: 'ifuwiwufnxwufx' }
+        //attributes (attrs) is this object - { email: 'me@test.com', password: 'ifuwiwufnxwufx' }
         //take this object and add to array of Users and write that update to the users.json file
         //assign a random unique id to every user:
         attrs.id = this.randomId();
